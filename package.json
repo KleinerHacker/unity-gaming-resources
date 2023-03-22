@@ -1,0 +1,16 @@
+{
+  "name": "org.pcsoft.gaming.resources",
+  "version": "1.0.0",
+  "displayName": "Unity Gaming Resources",
+  "description": "In-Game Resources System for Unity",
+  "unity": "2021.3",
+  "keywords": [
+    "gaming",
+    "resources"
+  ],
+  "author": {
+    "name": "Pfeiffer C Soft",
+    "email": "kl3in3rhack3r@gmail.com",
+    "url": "https://github.com/KleinerHacker/unity-gaming-resources"
+  }
+}
